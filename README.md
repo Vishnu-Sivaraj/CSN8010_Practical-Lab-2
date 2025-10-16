@@ -64,11 +64,11 @@ These metrics helped assess both accuracy and generalization across datasets.
 
 ---
 
-## 🧠 Workshop Integration
+## 🧠 Peer review talking points
 
 Key insights from peer-reviewed workshops were incorporated:
 
-- **Performance Metrics**: Importance of MAE and MAPE for regression; recall and ROC-AUC for classification framing
+- **Performance Metrics**: Importance of MAE and MAPE for regression
 - **KNN**: Bias-variance tradeoff and sensitivity to feature scaling
 - **Logistic Regression**: Value of interpretable coefficients and calibrated probabilities
 
